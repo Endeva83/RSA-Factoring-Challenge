@@ -21,4 +21,3 @@ int main()
     printf("%lld = %ld * %ld\n", num, factor2, factor1);
     return (0);
 }
-
